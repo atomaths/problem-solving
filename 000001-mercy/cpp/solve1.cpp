@@ -8,8 +8,6 @@ int main() {
     cin >> cases;
 
     while (cases--) {
-        string name;
-        cin >> name;
-        cout << "Hello, " << name << "!" << endl;     
+        cout << "Hello Algospot!" << endl;
     }
 }
